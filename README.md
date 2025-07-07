@@ -37,19 +37,13 @@ This project analyzes Foodpanda customer reviews and restaurant ratings in Rawal
 - 🥗 **Healthy food** category showed the highest average satisfaction (avg ~4.6⭐).
 - 🍽️ Repeated top performers included *Haute Cuisine*,*Foodies kitchen*, *Zaiqedaar by Chef Ayesha*, *Pinch of Spices*, and *Home Made Bites*.
 
-## 📄 Files
-
-- [`Foodpanda_Project_Report.pdf`](./Foodpanda_Project_Report.pdf) — Final report
-- [`Cleaned_Data.xlsx`](./Cleaned_Data.xlsx) — Cleaned and filtered dataset
-- Screenshots folder (optional) — visual charts
-
 ## ✅ Outcome
 
 This project demonstrated descriptive and diagnostic analysis, data cleaning, SQL filtering, and stakeholder reporting.  
-It follows the complete Google Data Analytics capstone workflow and is portfolio-ready.
-
----
+It follows the complete Google Data Analytics workflow and is portfolio-ready.
 
 ### 📬 Contact
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Sahib Dino
+If you'd like to discuss this project or similar work, feel free to reach out:  
+📧 sahib28575@gmail.com
