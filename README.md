@@ -1,6 +1,9 @@
 # 📊 Foodpanda Rawalpindi Ratings Analysis
 
 This project analyzes Foodpanda customer reviews and restaurant ratings in Rawalpindi, Pakistan, using the Google Data Analytics methodology (Ask, Prepare, Process, Analyze, Share). The goal was to identify the best-performing food vendors and food categories over the past year.
+🔄 **Update [July 2025]:**
+An earlier version of this project noted that "Healthy Food" was the highest-rated category. Upon further review, this was based on only one review and does not represent a reliable average. A revised analysis now excludes categories with fewer than 5 entries to ensure statistical significance. Thanks to this refinement, Dessert , Pulao and Pakistani food categories now appear as top performers based on meaningful sample sizes.
+
 
 ## 📁 Dataset
 
@@ -34,7 +37,7 @@ This project analyzes Foodpanda customer reviews and restaurant ratings in Rawal
 ## 📊 Key Findings
 
 - 🥇 **Anna Ka Khana** had the highest average rating (4.8⭐) and over 1000 reviews.
-- 🥗 **Healthy food** category showed the highest average satisfaction (avg ~4.6⭐).
+- 🥗 **Desert,Pulao and Pakistani** category showed the highest average satisfaction (avg ~4.6⭐).
 - 🍽️ Repeated top performers included *Haute Cuisine*,*Foodies kitchen*, *Zaiqedaar by Chef Ayesha*, *Pinch of Spices*, and *Home Made Bites*.
 
 ## ✅ Outcome
